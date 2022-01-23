@@ -1,2 +1,0 @@
-# Evseevmich
-psets
